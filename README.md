@@ -2,11 +2,11 @@
 
 A 90s-inspired inventory management dashboard built with React and Next.js
 
-## 📦 Overview
+## Overview
 
 **inventory.io**  The application allows users to view, search, and filter product inventory data with a Windows 95/98-inspired design aesthetic.
 
-## ✨ Features
+## Features
 
 - **90s-Inspired UI**: Complete with beveled buttons, inset form fields, and classic Windows 95/98 styling
 - **Responsive Design**: Works on mobile and desktop devices
@@ -19,7 +19,7 @@ A 90s-inspired inventory management dashboard built with React and Next.js
 - **Mock API Integration**: Simulates communication with a FastAPI backend
 
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Next.js, TypeScript
 - **Styling**: TailwindCSS with custom 90s-inspired components
@@ -27,14 +27,14 @@ A 90s-inspired inventory management dashboard built with React and Next.js
 - **API Integration**: Simulated API with mock data
 - **UI Components**: Custom 90s-styled components
 
-## 📥 Installation
+## Installation
 
 ### Prerequisites
 
 - Node.js 14.x or higher
 - npm or yarn
 
-## 📁 Project Structure
+## Project Structure
 
 inventory-io/
 ├── app/                  # Next.js app directory
@@ -52,7 +52,7 @@ inventory-io/
 │   └── types.ts          # TypeScript type definitions
 └── public/               # Static assets
 
-## 🎮 Usage
+## Usage
 
 ### Viewing Products
 
